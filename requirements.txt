@@ -8,7 +8,7 @@ cffi==1.11.5
 chardet==3.0.4
 cheroot==6.5.2
 CherryPy==18.0.1
-cryptography==2.3
+cryptography==3.2
 fpdf==1.7.2
 gitdb2==2.0.4
 GitPython==2.1.11
