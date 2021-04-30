@@ -36,7 +36,7 @@ pytz==2018.5
 PyYAML==5.1
 qrcode==6.0
 requests==2.24.0
-rsa==3.4.2
+rsa==4.7
 six==1.11.0
 smmap2==2.0.4
 tempora==1.13
